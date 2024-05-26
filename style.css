@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.h1{
+font-size: 60px;
+display: flex;
+justify-content: center;
+padding: 40px;
+text-shadow: 5px 0 5px rgb(255, 253, 253);
+color: rgb(15, 15, 15);
+}
+.box{
+    width: 315px;
+    height: 310px;
+    background-image:url(https://sun9-39.userapi.com/impg/jd2LA4mcCnbSnIkEvc7ztwgNCMejZJ4W55TTWQ/pYjDzRCmmXM.jpg?size=320x316&quality=96&sign=3922b368580ec055223213935ce81913&c_uniq_tag=NLJmmvkIjvy_gO1WBKXXjbKIKSi9ieTockwcR5AOBy0&type=album) ;
+    border-radius: 50%;
+    padding: 80px;
+}
+.box2{
+    width: 280px;
+    height: 280px;
+    background-image:url(https://i.pinimg.com/280x280_RS/92/f0/b3/92f0b33200c50b15436b6d865ce86fd3.jpg) ;
+    border-radius: 50%;
+}
+.box1{
+    width: 260px;
+    height: 260px;
+    background-image: url(https://icon2.cleanpng.com/20180323/zsq/kisspng-bmw-car-audi-q5-logo-roundel-bmw-5ab51b5fe58e14.6872183715218184639403.jpg);
+    border-radius: 50%;
+}
+.box3{
+    width: 250px;
+    height: 250px;
+    background-image:url(https://s3-media1.fl.yelpcdn.com/bphoto/6Khm5g1WexE8jJEzxykl-A/ls.jpg) ;
+    border-radius: 50%;
+}
+.box4{
+    width: 300px;
+    height: 296px;
+    background-image:url(https://i.ebayimg.com/images/g/uukAAOSwolpcNj~5/s-l300.jpg) ;
+    border-radius: 50%;
+}
+.box5{
+    width: 256px;
+    height: 256px;
+    background-image: url(https://at-cdn-s03.audiotool.com/2022/04/29/documents/9exyel9so72/0/cover256x256-fdcd3240d1734b1d96855d797d093a55.jpg);
+    border-radius: 50%;
+}
+.box6{
+    width: 236px;
+    height: 236px;
+    background-image:url(https://i.pinimg.com/236x/03/7b/aa/037baa76edc1250b1cc9dba5dc75414a--planes-boats.jpg?nii=t) ;
+    border-radius: 50%;
+}
+.box7{
+    width: 260px;
+    height: 260px;
+    background-image:url(https://www.evopseaauto.ro/image/cache/catalog/creion-corector-vopsea-auto/creion-corector-vopsea-auto-nissan-250x250.jpg) ;
+    border-radius: 50%;
+}
+.box8{
+    width: 280px;
+    height: 280px;
+    background-image:url(https://sankt-peterburg.vse-footbolki.ru/image/cache/catalog/vsm/0/1/1251/1251787/previews/people_1_pad_front_white_700-280x280.jpg) ;
+    border-radius: 50%;
+}
+body{
+    background-image: url(https://img3.akspic.ru/crops/3/8/7/6/2/126783/126783-avto-avtomobil-lichnyj_roskoshnyj_avtomobil-avtomobili_jaguar-jaguar_land_rover-1440x2560.jpg) ; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.a{
+    background-image: linear-gradient(90deg, rgb(34, 34, 34) ,rgb(71, 70, 70));
+    color: white;
+    border-radius: 30px;
+    text-decoration: none;
+    padding: 5px;
+    max-width: 653px;
+    width: 100%;
+    text-align: center;
+}
+.container{
+    background-image: linear-gradient(0deg,rgb(250, 245, 245),rgb(95, 93, 93))
+}
+.card1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.card2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.card3{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.title{
+    max-width: 653px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.box0{
+   max-width: 1960px;
+   height: 4px;
+   background-color: black;
+}
+.footer{
+    font-size: 25px;
+    color: rgb(22, 21, 21);
+    display: flex;
+    max-width: 1700px;
+    width: 100%;
+    justify-content: space-between;
+    height: 100px;
+}
+.p1{
+    display: flex;
+    align-items: center;
+}
